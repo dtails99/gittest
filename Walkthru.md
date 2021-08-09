@@ -1,4 +1,4 @@
-####This is a tutorial to use the IOTA Core Client library. It will alllow you to use the IOTA protocol to send and recieve transactions.
+#### This is a tutorial to use the IOTA Core Client library. It will alllow you to use the IOTA protocol to send and recieve transactions.
 
 ***With the Core Client library, you can:***
 
