@@ -1,4 +1,4 @@
-#### This is a tutorial to use the IOTA Core Client library. It will alllow you to use the IOTA protocol to send and recieve transactions.
+### This is a tutorial to use the IOTA Core Client library. It will alllow you to use the IOTA protocol to send and recieve transactions.
 
 ***With the Core Client library, you can:***
 
@@ -9,7 +9,7 @@
 
 
 .
-####A) In this tutorial, you send a "hello world" message in a zero-value transaction. These transactions are useful for storing messages in the Tangle without having to send any IOTA tokens.
+#### A) In this tutorial, you send a "hello world" message in a zero-value transaction. These transactions are useful for storing messages in the Tangle without having to send any IOTA tokens.
 
 
 ***For all tutorials A) through D), we use the [IOTA Devnet]("https://docs.iota.org/docs/getting-started/1.1/networks/overview)***
